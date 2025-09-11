@@ -1,4 +1,4 @@
-🎟️ cinevie-online-ticketing
+🎟️ **CINEVIE-ONLINE-TICKETING**
 
 BA & PM project report – requirement analysis, project planning, and SRS
 
@@ -6,7 +6,7 @@ BA & PM project report – requirement analysis, project planning, and SRS
 This repository contains the requirement analysis and project documentation for a team project focused on designing an online movie ticket booking platform.
 I worked as a Project Manager & Business Analyst, applying software project management techniques to produce a structured, comprehensive project plan and deliverables.
 
-🔍 Project Overview
+🔍 **Project Overview**
 
 Duration: May 2025 – July 2025
 
@@ -14,7 +14,7 @@ Role: Project Manager & Business Analyst (Student Project)
 
 Objective: Analyze business requirements, plan project activities, manage risks, and document a complete solution for CineVie+ Online Ticketing.
 
-📋 Key Contributions
+📋 **Key Contributions**
 
 Requirement Gathering & Analysis:
 
@@ -50,7 +50,7 @@ BRD & SRS describing business and software requirements.
 
 Project plan, Gantt chart, budget breakdown, risk report.
 
-🛠 Tools & Technologies
+🛠 **Tools & Technologies**
 
 Documentation & Planning: Microsoft Word, Excel
 
@@ -70,7 +70,7 @@ Collaboration: Team-based planning & review meetings
 
 📝 Final Project Report & Lessons Learned
 
-📌 Notes
+📌 **Notes**
 
 This project demonstrates my ability to plan and manage a software project end-to-end, gather and analyze requirements, allocate resources, track progress, and document the process professionally.
 
